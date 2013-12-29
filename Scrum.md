@@ -8,3 +8,5 @@ Dokument:
 [Project Backlog](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dEYtVzJYem1JZkZVTHQ1V3Q3a0RqRGc)
 
 [Sprint backlog & Burndown chart](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dFZ2VXNzUk9ZWmRkTXJkQnQxMkhnd2c)
+
+[Sprint 2](https://docs.google.com/spreadsheet/ccc?key=0ArxauT4cLTx3dDFELVFCclhlSGZvVG1scVJjSTZMX0E)
